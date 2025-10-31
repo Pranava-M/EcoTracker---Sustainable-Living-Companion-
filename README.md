@@ -1,4 +1,4 @@
-<!-- 💼 EcoTracker - Sustainable Living Companion -->
+<!-- 🌱 EcoTracker - Sustainable Living Companion -->
 
 <h1 align="center">🌱 EcoTracker – Sustainable Living Companion</h1>
 
@@ -12,124 +12,64 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Pranava-M/ecotracker/assets/banner.png" alt="EcoTracker Banner" width="100%" />
-  <h3>🌎 Track Today for a Greener Tomorrow 🌿</h3>
-  <p><b>EcoTracker</b> helps users track, analyze, and reduce their carbon footprint through gamified goals, AI insights, and community engagement.</p>
-</div>
-
----
-
-## 🔥 Profile Overview
-
-| Stars | Commits | Repositories | Followers | Experience | Issues |
-|:-----:|:--------:|:-------------:|:-----------:|:-----------:|:-------:|
-| 🏆 **39** | ⚡ **199** | 📦 **15** | 👥 **8** | 🎓 **1 yr** | ❓ **0** |
-
-<div align="center">
-  
-### 📈 Pranav's GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-**Pranava-M (Pranav)**  
-🟢 **215+ Contributions in 2025**  
-📦 **15 Public Repos**  
-📅 **Active for 1 Year**  
-📧 **machireddy12@gmail.com**
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🧠 Tech Stack
-
-### ⚙️ Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,sqlite,mysql" />
-</p>
-
-### 🧩 Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,linux,git,redis,aws" />
-</p>
-
----
-
 ## 🌍 Overview
 
-**EcoTracker** is a futuristic sustainability web application built to help individuals track and minimize their carbon footprint.  
-It combines analytics, gamification, and social engagement to make eco-friendly living both fun and impactful.
+**EcoTracker** is an innovative web application designed to help individuals **track, analyze, and reduce their carbon footprint**.  
+It makes sustainable living engaging through **gamification, analytics, and community participation**.
 
-| Metric | Value |
-|--------|-------|
-| ⭐ **Stars** | 39 |
-| ✅ **Commits** | 199 |
-| 📦 **Repositories** | 15 |
-| 🎓 **Experience** | 1 Year |
+> 🌱 *“Track today for a sustainable tomorrow.”*
 
 ---
 
 ## ✨ Features
 
-### 📊 **Carbon Footprint Dashboard**
-- Real-time data tracking and progress analytics  
-- Multi-category impact analysis (travel, energy, food, shopping)  
-- AI-based personalized sustainability insights  
-- Beautiful, responsive charts powered by **Chart.js**
+### 📊 Carbon Footprint Dashboard
+- Real-time tracking and data visualization  
+- Category-based impact tracking: *transport, food, energy, and shopping*  
+- AI-powered personalized sustainability insights  
+- Interactive charts powered by **Chart.js**
 
-### 🏆 **Gamified System**
-- Achievement badges for every sustainability milestone  
-- Weekly challenges and leaderboards  
-- XP progression system  
+### 🏆 Gamification System
+- Achievement badges for sustainability milestones  
+- Weekly challenges and community leaderboards  
+- Progress bars and goal completion metrics  
 
-### 🤝 **Community & Collaboration**
-- Join public challenges or create your own groups  
-- Access curated eco-education resources  
-- Share success stories and learn from others  
+### 🤝 Community Engagement
+- Join group challenges and collaborate for a collective impact  
+- Share eco-friendly tips, posts, and progress updates  
+- Access educational materials and sustainability resources  
 
-### 📱 **User Experience**
-- 🌗 Dark & Light mode support  
-- 📱 Responsive for all devices  
-- ⚙️ Works offline  
-- ♿ Fully accessible (WCAG compliant)
+### 📱 User Experience
+- Fully responsive across all devices  
+- Light/Dark mode support  
+- Offline functionality  
+- WCAG accessibility compliance  
 
 ---
 
-## 🧠 Technology Stack
+## 🛠 Technology Stack
 
-| Category | Tools Used |
-|-----------|------------|
-| Frontend | HTML5, CSS3, JavaScript, Chart.js, Font Awesome |
-| Backend | Python, Java |
-| APIs | Unsplash API |
-| Styling | Flexbox, CSS Grid, Google Fonts |
-| Deployment | GitHub Pages / Any modern web server |
+| Category | Technologies |
+|-----------|--------------|
+| **Frontend** | HTML5, CSS3 (Flexbox + Grid), JavaScript |
+| **Libraries** | Chart.js, Font Awesome, Google Fonts |
+| **APIs** | Unsplash API (for environmental imagery) |
+| **Backend (Optional)** | Python, Java |
+| **Automation** | PowerShell, Batchfile |
+| **Version Control** | Git & GitHub |
 
 ---
 
 ## 🚀 Quick Start
 
-### 🧩 Prerequisites
-- Any modern web browser  
-- Optional: Python for local server
+### Prerequisites
+- Any modern browser (Chrome, Edge, Firefox, Safari)
+- Internet connection for first-time use
+- *(Optional)* Python installed (for running a local dev server)
 
-### ⚙️ Setup
+### Installation
+
+**Option 1: Direct Download**
 ```bash
-# Clone the repo
 git clone https://github.com/Pranava-M/ecotracker.git
 cd ecotracker
-
-# Run local server (optional)
-python -m http.server 8000
-# Visit http://localhost:8000
